@@ -1,6 +1,6 @@
 /* background */
 body {
-    background: linear-gradient(45deg, #000000, #747165);
+    background: linear-gradient(45deg, #6e6363, #747165);
     transition: background 0.5s; /* Smooth transition */
 }
 
@@ -54,7 +54,7 @@ nav {
 }
 
 a {
-  color: rgb(245, 240, 240);
+  color: rgb(167, 157, 200);
   text-decoration: none;
   text-decoration-color: white;
   font-size: 35px;
